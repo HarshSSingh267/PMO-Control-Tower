@@ -1,0 +1,16 @@
+﻿Risk ID,Project ID,Risk Description,Probability (1-5),Impact (1-5),Risk Owner,Mitigation / Response,Status,Priority
+R-101,PRJ-101,Source data quality may reduce dashboard accuracy,3,4,Profile source data; agree reconciliation thresholds; obtain data-owner sign-off,Mitigating,High
+R-102,PRJ-101,Business users may request additional KPIs after design sign-off,3,3,Use formal change control and baseline KPI catalogue,Open,Medium
+R-103,PRJ-101,ETL performance may be inadequate at peak volumes,2,4,Load test pipelines and optimise refresh windows,Open,Medium
+R-104,PRJ-102,Credit bureau API dependency may delay integration,4,5,Daily vendor follow-up; mock service; escalate contract dependency,Escalated,Critical
+R-105,PRJ-102,Late defect discovery may threaten SIT exit,4,4,Daily defect triage; prioritise severity 1 and 2 defects,Mitigating,Critical
+R-106,PRJ-102,Underwriting rules may not match approved policy,2,5,Business rule walkthrough and traceability matrix,Open,High
+R-107,PRJ-103,CRM data mapping may contain duplicate customer records,3,4,Deduplication rules; sample-based validation; business approval,Mitigating,High
+R-108,PRJ-103,Relationship manager adoption may be lower than expected,3,3,Super-user network and role-based training,Open,Medium
+R-109,PRJ-103,Configuration changes may extend UAT preparation,3,3,Freeze configuration scope before UAT,Open,Medium
+R-110,PRJ-104,Regulatory report logic may be interpreted inconsistently,2,5,Document definitions and obtain risk-owner approval,Mitigating,High
+R-111,PRJ-104,Control evidence may be incomplete for audit review,2,4,Maintain evidence repository and control checklist,Open,Medium
+R-112,PRJ-104,Key reporting SME availability may be constrained,3,3,Book review slots two weeks in advance; identify deputy,Open,Medium
+R-113,PRJ-105,Legacy data quality exceptions may exceed assumptions,5,5,Profile early; agree remediation owners and exception thresholds,Escalated,Critical
+R-114,PRJ-105,Migration rehearsal may fail due to unresolved dependencies,4,4,Dependency log; daily cross-team checkpoint; rollback plan,Mitigating,Critical
+R-115,PRJ-105,Cloud environment access approval may be delayed,2,4,Raise access requests early and track with infrastructure lead,Open,Medium

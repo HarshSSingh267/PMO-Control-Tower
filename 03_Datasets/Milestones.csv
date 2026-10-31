@@ -1,0 +1,21 @@
+﻿Milestone ID,Project ID,Milestone,Planned Date,Actual Date,Status,Owner
+MS-101,PRJ-101,KPI catalogue approved,2026-07-17,2026-07-17,Achieved,Aarav Mehta
+MS-102,PRJ-101,Data model signed off,2026-08-07,2026-08-10,Achieved - Late,Priya Shah
+MS-103,PRJ-101,Dashboard build complete,2026-10-30,,In Progress,Isha Nair
+MS-104,PRJ-101,Business UAT sign-off,2026-12-04,,Not Started,Aarav Mehta
+MS-105,PRJ-102,Future-state workflow approved,2026-07-17,2026-07-17,Achieved,Riya Menon
+MS-106,PRJ-102,API integration complete,2026-10-16,,Delayed,Arjun Iyer
+MS-107,PRJ-102,System integration testing exit,2026-11-13,,At Risk,Meera Joshi
+MS-108,PRJ-102,Production go-live,2026-12-11,,Not Started,Riya Menon
+MS-109,PRJ-103,CRM requirements signed off,2026-09-04,2026-09-04,Achieved,Kunal Shah
+MS-110,PRJ-103,Configuration complete,2026-10-30,,At Risk,Isha Nair
+MS-111,PRJ-103,UAT exit,2026-12-11,,Not Started,Meera Joshi
+MS-112,PRJ-103,CRM rollout,2027-01-22,,Not Started,Kunal Shah
+MS-113,PRJ-104,Risk control framework approved,2026-08-21,2026-08-21,Achieved,Dev Patel
+MS-114,PRJ-104,Automated report pack ready,2026-10-30,,In Progress,Tara Bose
+MS-115,PRJ-104,Reconciliation sign-off,2026-11-20,,Not Started,Priya Shah
+MS-116,PRJ-104,Operational handover,2026-12-04,,Not Started,Tara Bose
+MS-117,PRJ-105,Data mapping approved,2026-07-10,2026-07-10,Achieved,Sana Khan
+MS-118,PRJ-105,Migration rehearsal 1 exit,2026-10-09,,Delayed,Rohan Desai
+MS-119,PRJ-105,Migration rehearsal 2 exit,2026-12-18,,Not Started,Dev Patel
+MS-120,PRJ-105,Production cutover,2027-01-29,,Not Started,Dev Patel

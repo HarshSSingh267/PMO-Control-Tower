@@ -1,0 +1,13 @@
+﻿Resource ID,Resource Name,Role,Available Capacity (hrs/week),Assigned Project(s),Allocated Hours (hrs/week)
+RES-01,Aarav Mehta,Project Manager,40,PRJ-101,28
+RES-02,Riya Menon,Project Manager,40,PRJ-102,38
+RES-03,Kunal Shah,Project Manager,40,PRJ-103,32
+RES-04,Priya Shah,PMO / Business Analyst,40,PRJ-101; PRJ-104,36
+RES-05,Rohan Desai,Data Engineer,40,PRJ-101; PRJ-104; PRJ-105,44
+RES-06,Isha Nair,BI / CRM Consultant,40,PRJ-101; PRJ-103,42
+RES-07,Kabir Rao,Data Analyst / QA,40,PRJ-101; PRJ-103; PRJ-104,36
+RES-08,Dev Patel,Technical Lead,40,PRJ-102; PRJ-104; PRJ-105,46
+RES-09,Sana Khan,Business Analyst,40,PRJ-102; PRJ-105,40
+RES-10,Arjun Iyer,Integration Engineer,40,PRJ-102; PRJ-105,38
+RES-11,Meera Joshi,QA Lead,40,PRJ-102; PRJ-103; PRJ-105,34
+RES-12,Tara Bose,Change & Training Lead,40,PRJ-103; PRJ-104,30

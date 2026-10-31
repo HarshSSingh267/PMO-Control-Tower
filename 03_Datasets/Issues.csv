@@ -1,0 +1,11 @@
+﻿Issue ID,Project ID,Issue Description,Severity,Responsible Person,Resolution Deadline,Resolution Status,Escalation Required,Resolution Approach
+I-101,PRJ-101,Two source tables have inconsistent customer identifiers,High,Rohan Desai,2026-11-06,Open,No,Data reconciliation
+I-102,PRJ-101,Business owner has not confirmed one KPI definition,Medium,Aarav Mehta,2026-11-03,In Progress,No,Decision follow-up
+I-103,PRJ-102,Credit bureau sandbox credentials are not provisioned,Critical,Arjun Iyer,2026-10-28,Open,Yes,Vendor / client escalation
+I-104,PRJ-102,Three severity-1 defects remain open after integration testing,Critical,Meera Joshi,2026-11-04,In Progress,Yes,Daily defect war-room
+I-105,PRJ-103,Customer address fields exceed target CRM field lengths,Medium,Kabir Rao,2026-11-09,Open,No,Data mapping correction
+I-106,PRJ-103,Two business units have not nominated UAT users,High,Kunal Shah,2026-11-05,Open,Yes,Sponsor intervention
+I-107,PRJ-104,One report total differs from source ledger by 1.8%,High,Priya Shah,2026-11-02,In Progress,No,Reconciliation investigation
+I-108,PRJ-104,Risk team review slot moved by one week,Low,Tara Bose,2026-11-10,Open,No,Reschedule review
+I-109,PRJ-105,Legacy source contains null account identifiers above tolerance,Critical,Sana Khan,2026-11-06,Open,Yes,Data-owner remediation
+I-110,PRJ-105,Cloud migration service account permission is pending,High,Dev Patel,2026-11-03,In Progress,Yes,Infrastructure escalation

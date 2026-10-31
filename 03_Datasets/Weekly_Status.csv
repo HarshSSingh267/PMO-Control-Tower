@@ -1,0 +1,6 @@
+﻿Reporting Week,As Of Date,Project ID,Actual Progress %,Planned Progress %,RAG Status,Executive Summary,Key Watch Item,Next Week Actions,Owner
+2026-W44,2026-10-30,PRJ-101,72,70,Green,ETL build progressing; dashboard build nearing completion.,KPI reconciliation,Complete KPI reconciliation and confirm UAT participants,Aarav Mehta
+2026-W44,2026-10-30,PRJ-102,42,60,Red,API integration dependency and open critical defects are delaying testing.,API credentials and severity-1 defects,Client sponsor to support vendor escalation; daily defect triage,Riya Menon
+2026-W44,2026-10-30,PRJ-103,58,62,Amber,CRM configuration and data cleansing progressing slightly below plan.,UAT user nominations,Obtain business-unit UAT nominations by 5 Nov,Kunal Shah
+2026-W44,2026-10-30,PRJ-104,80,78,Green,Report automation substantially complete; reconciliation underway.,Ledger reconciliation variance,Resolve 1.8% variance and obtain risk-owner sign-off,Priya Shah
+2026-W44,2026-10-30,PRJ-105,35,50,Red,Migration rehearsal blocked by data-quality exceptions and access dependency.,Legacy null account identifiers,Agree remediation thresholds and escalate cloud access,Dev Patel

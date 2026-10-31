@@ -1,0 +1,40 @@
+﻿Task ID,Project ID,Phase,Task Description,Assigned Resource,Start Date,Due Date,Planned Duration (Days),Planned Completion %,Actual Completion %,Priority,Status,Predecessor Task ID
+T-101,PRJ-101,Discovery,Confirm KPI requirements,Aarav Mehta,2026-07-01,2026-07-10,8,100,100,High,Done,
+T-102,PRJ-101,Discovery,Approve data source inventory,Priya Shah,2026-07-06,2026-07-17,10,100,100,High,Done,T-101
+T-103,PRJ-101,Design,Define semantic data model,Rohan Desai,2026-07-20,2026-08-07,15,100,100,High,Done,T-102
+T-104,PRJ-101,Build,Develop ETL pipelines,Rohan Desai,2026-08-10,2026-09-18,30,100,90,High,In Progress,T-103
+T-105,PRJ-101,Build,Build executive dashboard,Isha Nair,2026-09-01,2026-10-30,44,85,78,High,In Progress,T-103
+T-106,PRJ-101,Test,Reconcile KPI outputs,Kabir Rao,2026-10-12,2026-11-13,25,50,35,Medium,In Progress,T-104
+T-107,PRJ-101,Test,Conduct business UAT,Aarav Mehta,2026-11-16,2026-12-04,15,0,0,High,Not Started,T-106
+T-108,PRJ-101,Handover,Training and operational handover,Isha Nair,2026-12-07,2026-12-18,10,0,0,Medium,Not Started,T-107
+T-109,PRJ-102,Discovery,Map current loan journey,Riya Menon,2026-06-15,2026-06-26,10,100,100,High,Done,
+T-110,PRJ-102,Design,Approve future-state workflow,Sana Khan,2026-06-29,2026-07-17,15,100,100,High,Done,T-109
+T-111,PRJ-102,Build,Configure loan application workflow,Dev Patel,2026-07-20,2026-09-11,40,100,75,High,In Progress,T-110
+T-112,PRJ-102,Build,Complete credit bureau API integration,Arjun Iyer,2026-08-03,2026-10-16,55,100,45,Critical,Blocked,T-110
+T-113,PRJ-102,Test,Execute system integration testing,Meera Joshi,2026-10-19,2026-11-13,20,35,10,Critical,In Progress,T-112
+T-114,PRJ-102,Test,Resolve high-severity defects,Dev Patel,2026-10-26,2026-11-20,20,15,5,High,In Progress,T-113
+T-115,PRJ-102,Deploy,Production readiness review,Riya Menon,2026-11-23,2026-12-04,10,0,0,High,Not Started,T-114
+T-116,PRJ-102,Deploy,Go-live and hypercare,Riya Menon,2026-12-07,2026-12-11,5,0,0,Critical,Not Started,T-115
+T-117,PRJ-103,Discovery,Conduct user workshops,Kunal Shah,2026-08-03,2026-08-14,10,100,100,High,Done,
+T-118,PRJ-103,Design,Sign off CRM requirements,Kunal Shah,2026-08-17,2026-09-04,15,100,100,High,Done,T-117
+T-119,PRJ-103,Build,Configure sales and service modules,Isha Nair,2026-09-07,2026-10-30,40,80,65,High,In Progress,T-118
+T-120,PRJ-103,Build,Cleanse and map customer data,Kabir Rao,2026-09-14,2026-11-06,40,65,48,High,In Progress,T-118
+T-121,PRJ-103,Test,Prepare UAT scenarios,Meera Joshi,2026-10-26,2026-11-13,15,20,15,Medium,In Progress,T-119
+T-122,PRJ-103,Test,Run user acceptance testing,Kunal Shah,2026-11-16,2026-12-11,20,0,0,High,Not Started,T-121
+T-123,PRJ-103,Deploy,Deliver role-based training,Tara Bose,2026-12-14,2027-01-08,20,0,0,Medium,Not Started,T-122
+T-124,PRJ-103,Deploy,CRM rollout and closure,Kunal Shah,2027-01-11,2027-01-22,10,0,0,High,Not Started,T-123
+T-125,PRJ-104,Discovery,Inventory regulatory reports,Priya Shah,2026-07-20,2026-07-31,10,100,100,High,Done,
+T-126,PRJ-104,Design,Define risk data controls,Dev Patel,2026-08-03,2026-08-21,15,100,100,High,Done,T-125
+T-127,PRJ-104,Build,Automate portfolio risk extracts,Rohan Desai,2026-08-24,2026-10-02,30,100,100,High,Done,T-126
+T-128,PRJ-104,Build,Develop automated report pack,Tara Bose,2026-09-07,2026-10-30,40,90,85,High,In Progress,T-127
+T-129,PRJ-104,Test,Complete reconciliation controls,Kabir Rao,2026-10-05,2026-11-06,25,70,65,Critical,In Progress,T-127
+T-130,PRJ-104,Test,Obtain risk stakeholder sign-off,Priya Shah,2026-11-09,2026-11-20,10,0,0,High,Not Started,T-129
+T-131,PRJ-104,Handover,Publish operating runbook,Tara Bose,2026-11-23,2026-12-04,10,0,0,Medium,Not Started,T-130
+T-132,PRJ-105,Discovery,Profile legacy source systems,Dev Patel,2026-05-18,2026-06-12,20,100,100,High,Done,
+T-133,PRJ-105,Design,Approve data mapping specifications,Sana Khan,2026-06-15,2026-07-10,20,100,100,High,Done,T-132
+T-134,PRJ-105,Build,Develop cleansing rules,Arjun Iyer,2026-07-13,2026-09-04,40,100,80,High,In Progress,T-133
+T-135,PRJ-105,Build,Execute migration rehearsal 1,Rohan Desai,2026-09-07,2026-10-09,25,100,55,Critical,Blocked,T-134
+T-136,PRJ-105,Test,Resolve data quality exceptions,Sana Khan,2026-10-12,2026-11-20,30,55,25,Critical,In Progress,T-135
+T-137,PRJ-105,Test,Execute migration rehearsal 2,Dev Patel,2026-11-23,2026-12-18,20,0,0,High,Not Started,T-136
+T-138,PRJ-105,Deploy,Cutover readiness assessment,Meera Joshi,2026-12-21,2027-01-15,20,0,0,High,Not Started,T-137
+T-139,PRJ-105,Deploy,Production cutover and validation,Dev Patel,2027-01-18,2027-01-29,10,0,0,Critical,Not Started,T-138
