@@ -112,18 +112,8 @@ The central Excel workbook provides operational tracking through the following m
 
 The workbook includes automated RAG indicators, overdue alerts, risk escalation flags, resource utilisation calculations, budget variance analysis and consolidated portfolio KPIs.
 
-## 7. Planned Implementation
 
-| Phase | Deliverable | Status |
-|---|---|---|
-| 1 | PMO framework and portfolio design | Completed |
-| 2 | Excel-based project control system | Completed |
-| 3 | Project scheduling in MS Project | In Progress |
-| 4 | Jira project and workflow configuration | Planned |
-| 5 | Power BI dashboards and data modelling | In Progress |
-| 6 | Executive reporting and documentation | Planned |
-
-## 8. Key Performance Indicators
+## 7. Key Performance Indicators
 
 The PMO Control Tower is designed to monitor:
 
@@ -136,7 +126,7 @@ The PMO Control Tower is designed to monitor:
 - Issue resolution performance
 - Resource capacity and utilisation
 
-## 9. Intended Business Value
+## 8. Intended Business Value
 
 The framework demonstrates how PMO practices and management tools can improve:
 
@@ -147,7 +137,7 @@ The framework demonstrates how PMO practices and management tools can improve:
 - Management decision-making
 - Consistency in project reporting
 
-## 10. Disclaimer
+## 9. Disclaimer
 
 This is an independently developed academic and portfolio project using fictional project scenarios and simulated data. All project names, financial figures, stakeholders and operational records are illustrative and do not represent actual client engagements.
 
