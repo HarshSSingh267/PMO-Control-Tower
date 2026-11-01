@@ -93,7 +93,9 @@ PMO-Control-Tower/
 │   ├── Excel_Dashboard/
 │   └── PowerBI_Dashboards/
 │
-└── README.md
+├── .gitignore
+├── LICENSE
+├── README.md
 ```
 
 ## 6. Excel-Based PMO Control System
