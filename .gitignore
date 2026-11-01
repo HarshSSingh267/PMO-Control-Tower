@@ -1,0 +1,14 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xls
+~$*.pptx
+~$*.docx
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.autosave
